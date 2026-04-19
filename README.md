@@ -15,7 +15,7 @@ It includes real-world mini-projects covering **Java**, **SQL**, and **Python** 
 
 ---
 
-## ☕ Java Use Case 1 – SafeLog: Password Validator
+## ☕ Java Use Case – SafeLog: Password Validator
 
 ### 🧩 Business Case
 A cybersecurity firm needs a tool for their **Employee Portal** that forces employees to create strong passwords using a modular, feedback-driven approach.
@@ -41,7 +41,7 @@ java PasswordValidator
 
 ---
 
-## 🗄️ SQL Use Case 1 – SwiftShip: E-Commerce Logistics Tracker
+## 🗄️ SQL Use Case – SwiftShip: E-Commerce Logistics Tracker
 
 ### 🧩 Business Case
 **SwiftShip** is a third-party logistics provider handling thousands of packages daily. The core challenge is identifying **"Lost in Transit"** items and spotting underperforming delivery partners.
