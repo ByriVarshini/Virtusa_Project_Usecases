@@ -18,7 +18,7 @@ public class PasswordValidator {
             }
 
             System.out.println("Try again.\n");
-        }
+        } 
 
         scanner.close();
     }
